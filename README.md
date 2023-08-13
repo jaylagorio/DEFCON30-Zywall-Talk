@@ -1,4 +1,4 @@
-Video from Virtual Kernelcon 2020: [YouTube](https://www.youtube.com/watch?v=EOVWCHP1t_s)
+Video from DEF CON 30 (2022): [YouTube](https://www.youtube.com/watch?v=EOVWCHP1t_s)
 
 Abstract: How do you go bug hunting in devices you own when the manufacturer has slapped some pesky encryption scheme on the firmware? Starting from an encrypted blob of bits and getting to executable code is hard and can be even more frustrating when you already know the bug is there, you just want to see it! Join me on my expedition to access the contents of my Zyxel firewall's firmware using password and hash cracking, hardware and software reverse engineering, and duct taping puzzle pieces together. We'll start with a device and a firmware blob, flail helplessly at the crypto, tear apart the hardware, reverse engineer the software and emulate the platform, and finally identify the decryption routine – ultimately breaking the protection used by the entire product line to decrypt whatever firmware version we want.
 
