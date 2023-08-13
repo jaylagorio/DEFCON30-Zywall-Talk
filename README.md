@@ -5,5 +5,7 @@ Abstract: How do you go bug hunting in devices you own when the manufacturer has
 Speaker Bio: Jay Lagorio, a software engineer and independent security researcher, has been building computers and networks and finding ways to break them nearly his entire life. Being a nerd that likes to dig too far into things spilled over into the real world and he accidentally became a licensed private investigator. Releaser of the occasional tool or writeup on Github, he wishes he had enough time to do all the hacker things and crush griefers in GTA Online every day. He received a B.S. in Computer Science from UMBC and an M. Eng. from the Naval Postgraduate School.
 
 README.md: This file.
+
 [Paper.docx](Paper.docx): Paper containing much of the substance of the talk.
+
 [Slides.pptx](Slides.pptx): The slides presented at DEFCON30.
